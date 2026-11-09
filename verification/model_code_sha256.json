@@ -1,0 +1,12 @@
+{
+  "flake/__init__.py": "c71986992369f39179e4c4a238988df19197938256aa7176431fc1d0d38da727",
+  "flake/configuration.py": "07681ec9a446e2d2262528fb462bd1905a95186933e9bc09c8e40a3bdcff801b",
+  "flake/diagnostics.py": "67b36117e2ea02259d84bf5ebd6211e4cc4d79e4e199b582545650fd2947e0f3",
+  "flake/inputs.py": "44bbcf2b1ec5e75d37a27425a2dabff3adedbc776e32962b9d7e9d5926eb340e",
+  "flake/model.py": "927f5cc8ef66771ca9da950cb956e99fb999bf66481b493294b9b65bd3108580",
+  "flake/notebook.py": "e98db93ff0be53ab9c4001863b676d05e8cdadd268d2419295b7fbeb73a73ef1",
+  "flake/observations.py": "ad0b2706415a38b148bc48c0b8334aa74359eaf461b92563d805373e191fd49f",
+  "flake/physics.py": "981b6f20453c0faaa88485e31181ab41e7d2b9aabe74595bcaf7cb5a573099da",
+  "flake/plotting.py": "632020400687f6fba895e635221fdb83ccba2264431a7a6ec7e777df4bf6bcb2",
+  "flake/profiles.py": "69a2b866c8e5d4e9c2ccea29eead6974ee8a36346d2690ed12b5aad07f9b0fec"
+}

@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "expected_lakes": 50,
+  "expected_checks": 250,
+  "model": "GFDL-ESM4",
+  "verified_collected_file_hashes": 768,
+  "checks_passed": 250,
+  "checks_completed": 250,
+  "observations": {
+    "temperature_rows": 97632,
+    "temperature_lakes": 45,
+    "ice_rows": 450,
+    "ice_lakes": 45,
+    "unmapped_thermal_metadata_rows": 1,
+    "unmapped_thermal_site_ids": [
+      "nhd_120052233"
+    ],
+    "unmapped_site_policy": "Records without a valid lake ID are left unassigned; no lake IDs are inferred."
+  },
+  "default_lake_id": "86025201",
+  "model_checks_reused": true,
+  "preview_runs_rechecked": 2,
+  "historical_years": [
+    1995,
+    2014
+  ],
+  "scenario_years": [
+    2015,
+    2040
+  ],
+  "numerical_checks_scope": "Original default model settings; GUI experiments change the scientific configuration.",
+  "distribution_changes": "GitHub setup and automatic data retrieval only; the ten existing Python modules match the verified MSI package byte for byte."
+}
