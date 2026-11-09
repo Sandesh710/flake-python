@@ -1,0 +1,1231 @@
+{
+  "dataset_version": "1.0.0",
+  "model": "GFDL-ESM4",
+  "lake_count": 50,
+  "historical_years": [
+    1995,
+    2014
+  ],
+  "scenario_years": [
+    2015,
+    2040
+  ],
+  "archive_name": "FLake_Tutorial.zip",
+  "archive_prefix": "FLake_Tutorial",
+  "url": "https://github.com/Sandesh710/flake-python/releases/download/data-v1.0.0/FLake_Tutorial.zip",
+  "validation": "Expected paths and byte sizes from the verified MSI package; ZIP CRC checked at first installation.",
+  "files": [
+    {
+      "path": "data/10000200/historical.csv.gz",
+      "bytes": 236280
+    },
+    {
+      "path": "data/10000200/restart_1995.json",
+      "bytes": 432
+    },
+    {
+      "path": "data/10000200/ssp126.csv.gz",
+      "bytes": 435283
+    },
+    {
+      "path": "data/10000200/ssp245.csv.gz",
+      "bytes": 435769
+    },
+    {
+      "path": "data/10000200/ssp370.csv.gz",
+      "bytes": 435924
+    },
+    {
+      "path": "data/10000200/ssp585.csv.gz",
+      "bytes": 435076
+    },
+    {
+      "path": "data/10000900/historical.csv.gz",
+      "bytes": 236292
+    },
+    {
+      "path": "data/10000900/restart_1995.json",
+      "bytes": 435
+    },
+    {
+      "path": "data/10000900/ssp126.csv.gz",
+      "bytes": 435295
+    },
+    {
+      "path": "data/10000900/ssp245.csv.gz",
+      "bytes": 435815
+    },
+    {
+      "path": "data/10000900/ssp370.csv.gz",
+      "bytes": 435953
+    },
+    {
+      "path": "data/10000900/ssp585.csv.gz",
+      "bytes": 435114
+    },
+    {
+      "path": "data/10004100/historical.csv.gz",
+      "bytes": 236438
+    },
+    {
+      "path": "data/10004100/restart_1995.json",
+      "bytes": 400
+    },
+    {
+      "path": "data/10004100/ssp126.csv.gz",
+      "bytes": 435167
+    },
+    {
+      "path": "data/10004100/ssp245.csv.gz",
+      "bytes": 435676
+    },
+    {
+      "path": "data/10004100/ssp370.csv.gz",
+      "bytes": 435831
+    },
+    {
+      "path": "data/10004100/ssp585.csv.gz",
+      "bytes": 434979
+    },
+    {
+      "path": "data/10004401/historical.csv.gz",
+      "bytes": 236290
+    },
+    {
+      "path": "data/10004401/restart_1995.json",
+      "bytes": 444
+    },
+    {
+      "path": "data/10004401/ssp126.csv.gz",
+      "bytes": 432572
+    },
+    {
+      "path": "data/10004401/ssp245.csv.gz",
+      "bytes": 433113
+    },
+    {
+      "path": "data/10004401/ssp370.csv.gz",
+      "bytes": 433170
+    },
+    {
+      "path": "data/10004401/ssp585.csv.gz",
+      "bytes": 432329
+    },
+    {
+      "path": "data/10004500/historical.csv.gz",
+      "bytes": 236211
+    },
+    {
+      "path": "data/10004500/restart_1995.json",
+      "bytes": 431
+    },
+    {
+      "path": "data/10004500/ssp126.csv.gz",
+      "bytes": 435115
+    },
+    {
+      "path": "data/10004500/ssp245.csv.gz",
+      "bytes": 435640
+    },
+    {
+      "path": "data/10004500/ssp370.csv.gz",
+      "bytes": 435790
+    },
+    {
+      "path": "data/10004500/ssp585.csv.gz",
+      "bytes": 434914
+    },
+    {
+      "path": "data/10004800/historical.csv.gz",
+      "bytes": 236333
+    },
+    {
+      "path": "data/10004800/restart_1995.json",
+      "bytes": 430
+    },
+    {
+      "path": "data/10004800/ssp126.csv.gz",
+      "bytes": 435075
+    },
+    {
+      "path": "data/10004800/ssp245.csv.gz",
+      "bytes": 435566
+    },
+    {
+      "path": "data/10004800/ssp370.csv.gz",
+      "bytes": 435761
+    },
+    {
+      "path": "data/10004800/ssp585.csv.gz",
+      "bytes": 434913
+    },
+    {
+      "path": "data/10005300/historical.csv.gz",
+      "bytes": 236439
+    },
+    {
+      "path": "data/10005300/restart_1995.json",
+      "bytes": 441
+    },
+    {
+      "path": "data/10005300/ssp126.csv.gz",
+      "bytes": 435148
+    },
+    {
+      "path": "data/10005300/ssp245.csv.gz",
+      "bytes": 435686
+    },
+    {
+      "path": "data/10005300/ssp370.csv.gz",
+      "bytes": 435827
+    },
+    {
+      "path": "data/10005300/ssp585.csv.gz",
+      "bytes": 434951
+    },
+    {
+      "path": "data/18044100/historical.csv.gz",
+      "bytes": 238013
+    },
+    {
+      "path": "data/18044100/restart_1995.json",
+      "bytes": 412
+    },
+    {
+      "path": "data/18044100/ssp126.csv.gz",
+      "bytes": 438142
+    },
+    {
+      "path": "data/18044100/ssp245.csv.gz",
+      "bytes": 439188
+    },
+    {
+      "path": "data/18044100/ssp370.csv.gz",
+      "bytes": 438992
+    },
+    {
+      "path": "data/18044100/ssp585.csv.gz",
+      "bytes": 438287
+    },
+    {
+      "path": "data/24001400/historical.csv.gz",
+      "bytes": 235851
+    },
+    {
+      "path": "data/24001400/restart_1995.json",
+      "bytes": 417
+    },
+    {
+      "path": "data/24001400/ssp126.csv.gz",
+      "bytes": 434203
+    },
+    {
+      "path": "data/24001400/ssp245.csv.gz",
+      "bytes": 434863
+    },
+    {
+      "path": "data/24001400/ssp370.csv.gz",
+      "bytes": 434873
+    },
+    {
+      "path": "data/24001400/ssp585.csv.gz",
+      "bytes": 433850
+    },
+    {
+      "path": "data/27001600/historical.csv.gz",
+      "bytes": 236514
+    },
+    {
+      "path": "data/27001600/restart_1995.json",
+      "bytes": 393
+    },
+    {
+      "path": "data/27001600/ssp126.csv.gz",
+      "bytes": 435201
+    },
+    {
+      "path": "data/27001600/ssp245.csv.gz",
+      "bytes": 435845
+    },
+    {
+      "path": "data/27001600/ssp370.csv.gz",
+      "bytes": 435832
+    },
+    {
+      "path": "data/27001600/ssp585.csv.gz",
+      "bytes": 434617
+    },
+    {
+      "path": "data/27001800/historical.csv.gz",
+      "bytes": 235294
+    },
+    {
+      "path": "data/27001800/restart_1995.json",
+      "bytes": 429
+    },
+    {
+      "path": "data/27001800/ssp126.csv.gz",
+      "bytes": 434124
+    },
+    {
+      "path": "data/27001800/ssp245.csv.gz",
+      "bytes": 434268
+    },
+    {
+      "path": "data/27001800/ssp370.csv.gz",
+      "bytes": 434626
+    },
+    {
+      "path": "data/27001800/ssp585.csv.gz",
+      "bytes": 433817
+    },
+    {
+      "path": "data/27001900/historical.csv.gz",
+      "bytes": 235067
+    },
+    {
+      "path": "data/27001900/restart_1995.json",
+      "bytes": 447
+    },
+    {
+      "path": "data/27001900/ssp126.csv.gz",
+      "bytes": 434038
+    },
+    {
+      "path": "data/27001900/ssp245.csv.gz",
+      "bytes": 434142
+    },
+    {
+      "path": "data/27001900/ssp370.csv.gz",
+      "bytes": 434533
+    },
+    {
+      "path": "data/27001900/ssp585.csv.gz",
+      "bytes": 433710
+    },
+    {
+      "path": "data/27003100/historical.csv.gz",
+      "bytes": 236448
+    },
+    {
+      "path": "data/27003100/restart_1995.json",
+      "bytes": 408
+    },
+    {
+      "path": "data/27003100/ssp126.csv.gz",
+      "bytes": 435237
+    },
+    {
+      "path": "data/27003100/ssp245.csv.gz",
+      "bytes": 435915
+    },
+    {
+      "path": "data/27003100/ssp370.csv.gz",
+      "bytes": 435887
+    },
+    {
+      "path": "data/27003100/ssp585.csv.gz",
+      "bytes": 434678
+    },
+    {
+      "path": "data/27003700/historical.csv.gz",
+      "bytes": 236436
+    },
+    {
+      "path": "data/27003700/restart_1995.json",
+      "bytes": 437
+    },
+    {
+      "path": "data/27003700/ssp126.csv.gz",
+      "bytes": 434807
+    },
+    {
+      "path": "data/27003700/ssp245.csv.gz",
+      "bytes": 435464
+    },
+    {
+      "path": "data/27003700/ssp370.csv.gz",
+      "bytes": 435413
+    },
+    {
+      "path": "data/27003700/ssp585.csv.gz",
+      "bytes": 434200
+    },
+    {
+      "path": "data/27003900/historical.csv.gz",
+      "bytes": 236346
+    },
+    {
+      "path": "data/27003900/restart_1995.json",
+      "bytes": 455
+    },
+    {
+      "path": "data/27003900/ssp126.csv.gz",
+      "bytes": 435117
+    },
+    {
+      "path": "data/27003900/ssp245.csv.gz",
+      "bytes": 435786
+    },
+    {
+      "path": "data/27003900/ssp370.csv.gz",
+      "bytes": 435790
+    },
+    {
+      "path": "data/27003900/ssp585.csv.gz",
+      "bytes": 434593
+    },
+    {
+      "path": "data/27004000/historical.csv.gz",
+      "bytes": 236374
+    },
+    {
+      "path": "data/27004000/restart_1995.json",
+      "bytes": 433
+    },
+    {
+      "path": "data/27004000/ssp126.csv.gz",
+      "bytes": 435153
+    },
+    {
+      "path": "data/27004000/ssp245.csv.gz",
+      "bytes": 435856
+    },
+    {
+      "path": "data/27004000/ssp370.csv.gz",
+      "bytes": 435835
+    },
+    {
+      "path": "data/27004000/ssp585.csv.gz",
+      "bytes": 434636
+    },
+    {
+      "path": "data/27010400/historical.csv.gz",
+      "bytes": 236484
+    },
+    {
+      "path": "data/27010400/restart_1995.json",
+      "bytes": 455
+    },
+    {
+      "path": "data/27010400/ssp126.csv.gz",
+      "bytes": 435549
+    },
+    {
+      "path": "data/27010400/ssp245.csv.gz",
+      "bytes": 436254
+    },
+    {
+      "path": "data/27010400/ssp370.csv.gz",
+      "bytes": 435946
+    },
+    {
+      "path": "data/27010400/ssp585.csv.gz",
+      "bytes": 435131
+    },
+    {
+      "path": "data/27011700/historical.csv.gz",
+      "bytes": 236842
+    },
+    {
+      "path": "data/27011700/restart_1995.json",
+      "bytes": 443
+    },
+    {
+      "path": "data/27011700/ssp126.csv.gz",
+      "bytes": 435724
+    },
+    {
+      "path": "data/27011700/ssp245.csv.gz",
+      "bytes": 436280
+    },
+    {
+      "path": "data/27011700/ssp370.csv.gz",
+      "bytes": 436055
+    },
+    {
+      "path": "data/27011700/ssp585.csv.gz",
+      "bytes": 435402
+    },
+    {
+      "path": "data/27011800/historical.csv.gz",
+      "bytes": 236671
+    },
+    {
+      "path": "data/27011800/restart_1995.json",
+      "bytes": 440
+    },
+    {
+      "path": "data/27011800/ssp126.csv.gz",
+      "bytes": 435665
+    },
+    {
+      "path": "data/27011800/ssp245.csv.gz",
+      "bytes": 436359
+    },
+    {
+      "path": "data/27011800/ssp370.csv.gz",
+      "bytes": 436013
+    },
+    {
+      "path": "data/27011800/ssp585.csv.gz",
+      "bytes": 435213
+    },
+    {
+      "path": "data/27013302/historical.csv.gz",
+      "bytes": 236436
+    },
+    {
+      "path": "data/27013302/restart_1995.json",
+      "bytes": 390
+    },
+    {
+      "path": "data/27013302/ssp126.csv.gz",
+      "bytes": 435298
+    },
+    {
+      "path": "data/27013302/ssp245.csv.gz",
+      "bytes": 435830
+    },
+    {
+      "path": "data/27013302/ssp370.csv.gz",
+      "bytes": 435950
+    },
+    {
+      "path": "data/27013302/ssp585.csv.gz",
+      "bytes": 435101
+    },
+    {
+      "path": "data/27013700/historical.csv.gz",
+      "bytes": 236516
+    },
+    {
+      "path": "data/27013700/restart_1995.json",
+      "bytes": 445
+    },
+    {
+      "path": "data/27013700/ssp126.csv.gz",
+      "bytes": 435304
+    },
+    {
+      "path": "data/27013700/ssp245.csv.gz",
+      "bytes": 435831
+    },
+    {
+      "path": "data/27013700/ssp370.csv.gz",
+      "bytes": 435943
+    },
+    {
+      "path": "data/27013700/ssp585.csv.gz",
+      "bytes": 435124
+    },
+    {
+      "path": "data/27017600/historical.csv.gz",
+      "bytes": 236730
+    },
+    {
+      "path": "data/27017600/restart_1995.json",
+      "bytes": 443
+    },
+    {
+      "path": "data/27017600/ssp126.csv.gz",
+      "bytes": 435774
+    },
+    {
+      "path": "data/27017600/ssp245.csv.gz",
+      "bytes": 436311
+    },
+    {
+      "path": "data/27017600/ssp370.csv.gz",
+      "bytes": 436086
+    },
+    {
+      "path": "data/27017600/ssp585.csv.gz",
+      "bytes": 435494
+    },
+    {
+      "path": "data/27019101/historical.csv.gz",
+      "bytes": 236602
+    },
+    {
+      "path": "data/27019101/restart_1995.json",
+      "bytes": 446
+    },
+    {
+      "path": "data/27019101/ssp126.csv.gz",
+      "bytes": 435764
+    },
+    {
+      "path": "data/27019101/ssp245.csv.gz",
+      "bytes": 436272
+    },
+    {
+      "path": "data/27019101/ssp370.csv.gz",
+      "bytes": 436095
+    },
+    {
+      "path": "data/27019101/ssp585.csv.gz",
+      "bytes": 435436
+    },
+    {
+      "path": "data/27019200/historical.csv.gz",
+      "bytes": 236751
+    },
+    {
+      "path": "data/27019200/restart_1995.json",
+      "bytes": 441
+    },
+    {
+      "path": "data/27019200/ssp126.csv.gz",
+      "bytes": 435275
+    },
+    {
+      "path": "data/27019200/ssp245.csv.gz",
+      "bytes": 435759
+    },
+    {
+      "path": "data/27019200/ssp370.csv.gz",
+      "bytes": 435625
+    },
+    {
+      "path": "data/27019200/ssp585.csv.gz",
+      "bytes": 434904
+    },
+    {
+      "path": "data/45000100/historical.csv.gz",
+      "bytes": 239522
+    },
+    {
+      "path": "data/45000100/restart_1995.json",
+      "bytes": 402
+    },
+    {
+      "path": "data/45000100/ssp126.csv.gz",
+      "bytes": 439174
+    },
+    {
+      "path": "data/45000100/ssp245.csv.gz",
+      "bytes": 440439
+    },
+    {
+      "path": "data/45000100/ssp370.csv.gz",
+      "bytes": 439692
+    },
+    {
+      "path": "data/45000100/ssp585.csv.gz",
+      "bytes": 439197
+    },
+    {
+      "path": "data/48000200/historical.csv.gz",
+      "bytes": 237876
+    },
+    {
+      "path": "data/48000200/restart_1995.json",
+      "bytes": 429
+    },
+    {
+      "path": "data/48000200/ssp126.csv.gz",
+      "bytes": 437275
+    },
+    {
+      "path": "data/48000200/ssp245.csv.gz",
+      "bytes": 438730
+    },
+    {
+      "path": "data/48000200/ssp370.csv.gz",
+      "bytes": 438971
+    },
+    {
+      "path": "data/48000200/ssp585.csv.gz",
+      "bytes": 438409
+    },
+    {
+      "path": "data/62000100/historical.csv.gz",
+      "bytes": 237072
+    },
+    {
+      "path": "data/62000100/restart_1995.json",
+      "bytes": 401
+    },
+    {
+      "path": "data/62000100/ssp126.csv.gz",
+      "bytes": 435584
+    },
+    {
+      "path": "data/62000100/ssp245.csv.gz",
+      "bytes": 436366
+    },
+    {
+      "path": "data/62000100/ssp370.csv.gz",
+      "bytes": 436580
+    },
+    {
+      "path": "data/62000100/ssp585.csv.gz",
+      "bytes": 435294
+    },
+    {
+      "path": "data/62000200/historical.csv.gz",
+      "bytes": 235462
+    },
+    {
+      "path": "data/62000200/restart_1995.json",
+      "bytes": 428
+    },
+    {
+      "path": "data/62000200/ssp126.csv.gz",
+      "bytes": 434941
+    },
+    {
+      "path": "data/62000200/ssp245.csv.gz",
+      "bytes": 435150
+    },
+    {
+      "path": "data/62000200/ssp370.csv.gz",
+      "bytes": 435203
+    },
+    {
+      "path": "data/62000200/ssp585.csv.gz",
+      "bytes": 434176
+    },
+    {
+      "path": "data/62000700/historical.csv.gz",
+      "bytes": 235372
+    },
+    {
+      "path": "data/62000700/restart_1995.json",
+      "bytes": 442
+    },
+    {
+      "path": "data/62000700/ssp126.csv.gz",
+      "bytes": 434362
+    },
+    {
+      "path": "data/62000700/ssp245.csv.gz",
+      "bytes": 434583
+    },
+    {
+      "path": "data/62000700/ssp370.csv.gz",
+      "bytes": 434608
+    },
+    {
+      "path": "data/62000700/ssp585.csv.gz",
+      "bytes": 433666
+    },
+    {
+      "path": "data/62001200/historical.csv.gz",
+      "bytes": 235391
+    },
+    {
+      "path": "data/62001200/restart_1995.json",
+      "bytes": 403
+    },
+    {
+      "path": "data/62001200/ssp126.csv.gz",
+      "bytes": 434228
+    },
+    {
+      "path": "data/62001200/ssp245.csv.gz",
+      "bytes": 434300
+    },
+    {
+      "path": "data/62001200/ssp370.csv.gz",
+      "bytes": 434664
+    },
+    {
+      "path": "data/62001200/ssp585.csv.gz",
+      "bytes": 433891
+    },
+    {
+      "path": "data/62001300/historical.csv.gz",
+      "bytes": 235344
+    },
+    {
+      "path": "data/62001300/restart_1995.json",
+      "bytes": 443
+    },
+    {
+      "path": "data/62001300/ssp126.csv.gz",
+      "bytes": 434148
+    },
+    {
+      "path": "data/62001300/ssp245.csv.gz",
+      "bytes": 434270
+    },
+    {
+      "path": "data/62001300/ssp370.csv.gz",
+      "bytes": 434615
+    },
+    {
+      "path": "data/62001300/ssp585.csv.gz",
+      "bytes": 433794
+    },
+    {
+      "path": "data/62005400/historical.csv.gz",
+      "bytes": 235149
+    },
+    {
+      "path": "data/62005400/restart_1995.json",
+      "bytes": 457
+    },
+    {
+      "path": "data/62005400/ssp126.csv.gz",
+      "bytes": 434268
+    },
+    {
+      "path": "data/62005400/ssp245.csv.gz",
+      "bytes": 434379
+    },
+    {
+      "path": "data/62005400/ssp370.csv.gz",
+      "bytes": 434726
+    },
+    {
+      "path": "data/62005400/ssp585.csv.gz",
+      "bytes": 433932
+    },
+    {
+      "path": "data/62005600/historical.csv.gz",
+      "bytes": 235458
+    },
+    {
+      "path": "data/62005600/restart_1995.json",
+      "bytes": 432
+    },
+    {
+      "path": "data/62005600/ssp126.csv.gz",
+      "bytes": 434883
+    },
+    {
+      "path": "data/62005600/ssp245.csv.gz",
+      "bytes": 435109
+    },
+    {
+      "path": "data/62005600/ssp370.csv.gz",
+      "bytes": 435153
+    },
+    {
+      "path": "data/62005600/ssp585.csv.gz",
+      "bytes": 434162
+    },
+    {
+      "path": "data/62005700/historical.csv.gz",
+      "bytes": 235459
+    },
+    {
+      "path": "data/62005700/restart_1995.json",
+      "bytes": 432
+    },
+    {
+      "path": "data/62005700/ssp126.csv.gz",
+      "bytes": 434877
+    },
+    {
+      "path": "data/62005700/ssp245.csv.gz",
+      "bytes": 435115
+    },
+    {
+      "path": "data/62005700/ssp370.csv.gz",
+      "bytes": 435169
+    },
+    {
+      "path": "data/62005700/ssp585.csv.gz",
+      "bytes": 434120
+    },
+    {
+      "path": "data/62006700/historical.csv.gz",
+      "bytes": 235494
+    },
+    {
+      "path": "data/62006700/restart_1995.json",
+      "bytes": 429
+    },
+    {
+      "path": "data/62006700/ssp126.csv.gz",
+      "bytes": 434321
+    },
+    {
+      "path": "data/62006700/ssp245.csv.gz",
+      "bytes": 434586
+    },
+    {
+      "path": "data/62006700/ssp370.csv.gz",
+      "bytes": 434614
+    },
+    {
+      "path": "data/62006700/ssp585.csv.gz",
+      "bytes": 433605
+    },
+    {
+      "path": "data/62007300/historical.csv.gz",
+      "bytes": 235404
+    },
+    {
+      "path": "data/62007300/restart_1995.json",
+      "bytes": 400
+    },
+    {
+      "path": "data/62007300/ssp126.csv.gz",
+      "bytes": 434923
+    },
+    {
+      "path": "data/62007300/ssp245.csv.gz",
+      "bytes": 435132
+    },
+    {
+      "path": "data/62007300/ssp370.csv.gz",
+      "bytes": 435207
+    },
+    {
+      "path": "data/62007300/ssp585.csv.gz",
+      "bytes": 434181
+    },
+    {
+      "path": "data/62007800/historical.csv.gz",
+      "bytes": 235444
+    },
+    {
+      "path": "data/62007800/restart_1995.json",
+      "bytes": 444
+    },
+    {
+      "path": "data/62007800/ssp126.csv.gz",
+      "bytes": 434936
+    },
+    {
+      "path": "data/62007800/ssp245.csv.gz",
+      "bytes": 435175
+    },
+    {
+      "path": "data/62007800/ssp370.csv.gz",
+      "bytes": 435228
+    },
+    {
+      "path": "data/62007800/ssp585.csv.gz",
+      "bytes": 434185
+    },
+    {
+      "path": "data/62008200/historical.csv.gz",
+      "bytes": 235567
+    },
+    {
+      "path": "data/62008200/restart_1995.json",
+      "bytes": 456
+    },
+    {
+      "path": "data/62008200/ssp126.csv.gz",
+      "bytes": 434402
+    },
+    {
+      "path": "data/62008200/ssp245.csv.gz",
+      "bytes": 434680
+    },
+    {
+      "path": "data/62008200/ssp370.csv.gz",
+      "bytes": 434689
+    },
+    {
+      "path": "data/62008200/ssp585.csv.gz",
+      "bytes": 433703
+    },
+    {
+      "path": "data/62008300/historical.csv.gz",
+      "bytes": 235267
+    },
+    {
+      "path": "data/62008300/restart_1995.json",
+      "bytes": 416
+    },
+    {
+      "path": "data/62008300/ssp126.csv.gz",
+      "bytes": 434750
+    },
+    {
+      "path": "data/62008300/ssp245.csv.gz",
+      "bytes": 434975
+    },
+    {
+      "path": "data/62008300/ssp370.csv.gz",
+      "bytes": 435038
+    },
+    {
+      "path": "data/62008300/ssp585.csv.gz",
+      "bytes": 433983
+    },
+    {
+      "path": "data/69069300/historical.csv.gz",
+      "bytes": 241924
+    },
+    {
+      "path": "data/69069300/restart_1995.json",
+      "bytes": 459
+    },
+    {
+      "path": "data/69069300/ssp126.csv.gz",
+      "bytes": 443066
+    },
+    {
+      "path": "data/69069300/ssp245.csv.gz",
+      "bytes": 443846
+    },
+    {
+      "path": "data/69069300/ssp370.csv.gz",
+      "bytes": 443601
+    },
+    {
+      "path": "data/69069300/ssp585.csv.gz",
+      "bytes": 443948
+    },
+    {
+      "path": "data/70005400/historical.csv.gz",
+      "bytes": 236331
+    },
+    {
+      "path": "data/70005400/restart_1995.json",
+      "bytes": 443
+    },
+    {
+      "path": "data/70005400/ssp126.csv.gz",
+      "bytes": 435279
+    },
+    {
+      "path": "data/70005400/ssp245.csv.gz",
+      "bytes": 435902
+    },
+    {
+      "path": "data/70005400/ssp370.csv.gz",
+      "bytes": 435641
+    },
+    {
+      "path": "data/70005400/ssp585.csv.gz",
+      "bytes": 435002
+    },
+    {
+      "path": "data/70006900/historical.csv.gz",
+      "bytes": 236344
+    },
+    {
+      "path": "data/70006900/restart_1995.json",
+      "bytes": 428
+    },
+    {
+      "path": "data/70006900/ssp126.csv.gz",
+      "bytes": 435259
+    },
+    {
+      "path": "data/70006900/ssp245.csv.gz",
+      "bytes": 435868
+    },
+    {
+      "path": "data/70006900/ssp370.csv.gz",
+      "bytes": 435649
+    },
+    {
+      "path": "data/70006900/ssp585.csv.gz",
+      "bytes": 434998
+    },
+    {
+      "path": "data/70007200/historical.csv.gz",
+      "bytes": 236578
+    },
+    {
+      "path": "data/70007200/restart_1995.json",
+      "bytes": 432
+    },
+    {
+      "path": "data/70007200/ssp126.csv.gz",
+      "bytes": 435244
+    },
+    {
+      "path": "data/70007200/ssp245.csv.gz",
+      "bytes": 435862
+    },
+    {
+      "path": "data/70007200/ssp370.csv.gz",
+      "bytes": 435645
+    },
+    {
+      "path": "data/70007200/ssp585.csv.gz",
+      "bytes": 434981
+    },
+    {
+      "path": "data/81000300/historical.csv.gz",
+      "bytes": 236337
+    },
+    {
+      "path": "data/81000300/restart_1995.json",
+      "bytes": 430
+    },
+    {
+      "path": "data/81000300/ssp126.csv.gz",
+      "bytes": 435025
+    },
+    {
+      "path": "data/81000300/ssp245.csv.gz",
+      "bytes": 435662
+    },
+    {
+      "path": "data/81000300/ssp370.csv.gz",
+      "bytes": 435780
+    },
+    {
+      "path": "data/81000300/ssp585.csv.gz",
+      "bytes": 434710
+    },
+    {
+      "path": "data/82004600/historical.csv.gz",
+      "bytes": 237030
+    },
+    {
+      "path": "data/82004600/restart_1995.json",
+      "bytes": 396
+    },
+    {
+      "path": "data/82004600/ssp126.csv.gz",
+      "bytes": 435673
+    },
+    {
+      "path": "data/82004600/ssp245.csv.gz",
+      "bytes": 436467
+    },
+    {
+      "path": "data/82004600/ssp370.csv.gz",
+      "bytes": 436660
+    },
+    {
+      "path": "data/82004600/ssp585.csv.gz",
+      "bytes": 435388
+    },
+    {
+      "path": "data/82011500/historical.csv.gz",
+      "bytes": 236705
+    },
+    {
+      "path": "data/82011500/restart_1995.json",
+      "bytes": 440
+    },
+    {
+      "path": "data/82011500/ssp126.csv.gz",
+      "bytes": 435162
+    },
+    {
+      "path": "data/82011500/ssp245.csv.gz",
+      "bytes": 435754
+    },
+    {
+      "path": "data/82011500/ssp370.csv.gz",
+      "bytes": 435736
+    },
+    {
+      "path": "data/82011500/ssp585.csv.gz",
+      "bytes": 434516
+    },
+    {
+      "path": "data/82016700/historical.csv.gz",
+      "bytes": 237072
+    },
+    {
+      "path": "data/82016700/restart_1995.json",
+      "bytes": 431
+    },
+    {
+      "path": "data/82016700/ssp126.csv.gz",
+      "bytes": 435648
+    },
+    {
+      "path": "data/82016700/ssp245.csv.gz",
+      "bytes": 436436
+    },
+    {
+      "path": "data/82016700/ssp370.csv.gz",
+      "bytes": 436633
+    },
+    {
+      "path": "data/82016700/ssp585.csv.gz",
+      "bytes": 435339
+    },
+    {
+      "path": "data/86025201/historical.csv.gz",
+      "bytes": 237522
+    },
+    {
+      "path": "data/86025201/restart_1995.json",
+      "bytes": 440
+    },
+    {
+      "path": "data/86025201/ssp126.csv.gz",
+      "bytes": 436835
+    },
+    {
+      "path": "data/86025201/ssp245.csv.gz",
+      "bytes": 437382
+    },
+    {
+      "path": "data/86025201/ssp370.csv.gz",
+      "bytes": 437122
+    },
+    {
+      "path": "data/86025201/ssp585.csv.gz",
+      "bytes": 436189
+    },
+    {
+      "path": "data/86028200/historical.csv.gz",
+      "bytes": 236262
+    },
+    {
+      "path": "data/86028200/restart_1995.json",
+      "bytes": 431
+    },
+    {
+      "path": "data/86028200/ssp126.csv.gz",
+      "bytes": 435039
+    },
+    {
+      "path": "data/86028200/ssp245.csv.gz",
+      "bytes": 435730
+    },
+    {
+      "path": "data/86028200/ssp370.csv.gz",
+      "bytes": 435663
+    },
+    {
+      "path": "data/86028200/ssp585.csv.gz",
+      "bytes": 435058
+    },
+    {
+      "path": "data/86028400/historical.csv.gz",
+      "bytes": 237457
+    },
+    {
+      "path": "data/86028400/restart_1995.json",
+      "bytes": 444
+    },
+    {
+      "path": "data/86028400/ssp126.csv.gz",
+      "bytes": 436773
+    },
+    {
+      "path": "data/86028400/ssp245.csv.gz",
+      "bytes": 437304
+    },
+    {
+      "path": "data/86028400/ssp370.csv.gz",
+      "bytes": 437080
+    },
+    {
+      "path": "data/86028400/ssp585.csv.gz",
+      "bytes": 436169
+    },
+    {
+      "path": "data/lakes.csv",
+      "bytes": 8827
+    },
+    {
+      "path": "data/observations/ice_dates.csv.gz",
+      "bytes": 2821
+    },
+    {
+      "path": "data/observations/temperature_profiles.csv.gz",
+      "bytes": 558499
+    }
+  ]
+}

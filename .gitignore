@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+results/
+.flake_data_*/
+data/*/
+FLake_Tutorial.zip

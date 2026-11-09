@@ -1,0 +1,20 @@
+{
+  "default_lake_id": "86025201",
+  "model": "GFDL-ESM4",
+  "historical_years": [
+    1995,
+    2014
+  ],
+  "scenario_years": [
+    2015,
+    2040
+  ],
+  "scenarios": [
+    "ssp126",
+    "ssp245",
+    "ssp370",
+    "ssp585"
+  ],
+  "lake_count": 50,
+  "calendar": "365_day"
+}
